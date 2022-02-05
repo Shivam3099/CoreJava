@@ -1,0 +1,11 @@
+package com.rays.basics;
+
+public class StringClass {
+public static void main(String[] args) {
+	StringBuffer s= new StringBuffer("Shivam patel");
+	
+	
+	
+	System.out.println(s.reverse());
+}
+}

@@ -1,0 +1,57 @@
+package com.rays.basics;
+
+public class GearAssignment {
+public static void main(String[] args) {
+	
+	String s = "gear 1";
+
+    switch (s){
+    case "5":
+         System.out.println("Speed is minimum 20km/hr");
+    break;
+
+    case "gear 2":
+        System.out.println("Speed is minimum 40km/hr");
+   break;
+    
+    case "gear 3":
+        System.out.println("Speed is minimum 60km/hr");
+   break;
+    
+    
+    case "gear 4":
+        System.out.println("Speed is minimum 70km/hr");
+   break;
+   
+    case "gear 5":
+       System.out.println("Speed is minimum 90km/hr");
+  break;
+   
+  
+  default:
+	   System.out.println("nutral");
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+    }
+}
+}

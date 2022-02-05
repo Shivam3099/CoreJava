@@ -1,0 +1,26 @@
+package String;
+
+public class StringName {
+public static void main(String[] args) {
+	String name="Shivam kumar patel";
+System.out.println(name.length()); 
+System.out.println(name.charAt(0));
+/*System.out.println(name.indexOf("kumar"));
+System.out.println(name.lastIndexOf("p"));
+System.out.println(name.replace("k","r"));
+System.out.println(name.replaceAll("a","h"));
+System.out.println(name.toLowerCase());
+System.out.println(name.toUpperCase());
+System.out.println(name.startsWith("Shivam"));
+System.out.println(name.endsWith("el"));
+System.out.println(name.substring(6));
+
+StringBuffer sb=new StringBuffer("Shivam ");
+sb.append("kumar patel");
+System.out.println(sb.length());
+System.out.println(sb.capacity());
+System.out.println(sb.indexOf("patel"));
+System.out.println(sb.replace(7,12,"ram"));
+System.out.println(sb.reverse());*/
+}
+}

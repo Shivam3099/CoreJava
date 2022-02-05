@@ -1,0 +1,15 @@
+
+public class Main {
+public static void main(String[] args) {
+	//System.out.println("hellow java");
+	
+	int i=1001;
+	while(i<=1000) {
+	System.out.println(i);
+	i++;
+	}
+	System.out.println("complite");
+	
+	
+}
+}

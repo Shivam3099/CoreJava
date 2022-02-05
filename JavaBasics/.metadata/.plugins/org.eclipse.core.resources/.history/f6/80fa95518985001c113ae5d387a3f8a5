@@ -1,0 +1,28 @@
+package Exercise;
+
+public class Armstrong {
+
+	public static void main(String[] args) {
+
+	int n = 370;
+	
+	int s = 0;
+	
+	int k=n;
+	
+	int c;
+	
+	while(k!= 0) {
+	
+	c = k % 10;
+	
+	s = s +(c + c + c);
+	System.out.println(s);
+	//k = K / 10 ;
+	
+	}
+	
+	
+	
+	}
+}

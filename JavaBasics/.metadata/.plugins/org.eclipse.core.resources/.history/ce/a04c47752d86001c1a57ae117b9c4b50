@@ -1,0 +1,12 @@
+package Exercise;
+
+public class PalindromNo {
+public static void main(String[] args) {
+	int r,sum=0;
+	int n = 454;
+	r=n%10;
+	System.out.println(r);
+	
+	
+}
+}

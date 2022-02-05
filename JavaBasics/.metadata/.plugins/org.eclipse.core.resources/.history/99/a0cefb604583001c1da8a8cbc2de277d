@@ -1,0 +1,12 @@
+package com.rays.basics;
+
+public class StringClass {
+public static void main(String[] args) {
+	String s="Shivam patel";
+	System.out.println(s.contains(a));
+for (int i = s.length();i>=1; i--) {
+	System.out.print(s.charAt(i-1));
+}
+
+}
+}

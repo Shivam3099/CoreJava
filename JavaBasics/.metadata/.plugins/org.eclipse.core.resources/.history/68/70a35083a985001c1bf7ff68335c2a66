@@ -1,0 +1,15 @@
+package Exercise;
+
+import javax.swing.text.StyledEditorKit.ForegroundAction;
+
+public class PrimeNo {
+	 public static void main(String[] args) {
+		
+	int no = 50;
+	int a = 0;
+	for(int i = 2; i <= 50; i++ ){
+	
+	System.out.println(i);
+	}
+	 }
+}

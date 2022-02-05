@@ -1,0 +1,25 @@
+package Exercise;
+
+public class Triangle {
+
+	public static void main(String[] args) {
+		
+		int[] table = new int [4];
+	
+		for (int s = 0; s <= table.length; s++) {
+		 
+			System.out.print(" ");
+	
+			for (int t = 0; t < s; t++) {
+	
+			System.out.println(" " + s);
+	
+	
+	
+	
+		
+			}
+		}
+	
+	}
+}

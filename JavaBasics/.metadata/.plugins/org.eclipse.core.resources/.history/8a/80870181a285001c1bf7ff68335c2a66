@@ -1,0 +1,10 @@
+package Exercise;
+
+public class SmallerNo {
+main
+	int a = 20;
+	int b = 30;
+	
+	if(a<b) {
+	
+}

@@ -1,0 +1,13 @@
+package Exercise;
+
+public class ArrayLargest {
+public static void main(String[] args) {
+	int[]a= {10,20,30,35,49,15};
+ for (int i : a) {
+ for (int j = 0; j < a.length; j++) {
+	System.out.println(j);
+}
+ }	
+}   
+}
+

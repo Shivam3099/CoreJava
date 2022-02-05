@@ -1,0 +1,15 @@
+package com.rays.basics;
+
+public class CountCharAt {
+public static void main(String[] args) {
+	String s ="Shivam patel";
+int s1=0;
+	for (int i = s.length();i>=1; i--) {
+	if (s.charAt(i-1)=='e') {
+	s1++;	
+	}
+}
+System.out.println(s1);
+
+}
+}

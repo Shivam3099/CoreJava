@@ -1,0 +1,26 @@
+package Exercise;
+
+import javax.swing.text.StyledEditorKit.ForegroundAction;
+
+public class PrimeNo {
+	 public static void main(String[] args) {
+		
+	int no = 17;
+	int a = 0;
+	for(int i = 2; i <= 50; i++ ){
+	
+	
+	 if (no % i == 0) {
+      a=1;	 
+	 }	
+	if (no==1) {
+		System.out.println("No is prime");
+	}else {System.out.println("no is not prime");
+	
+	
+	}
+	 
+	 
+	} 
+	 }
+}

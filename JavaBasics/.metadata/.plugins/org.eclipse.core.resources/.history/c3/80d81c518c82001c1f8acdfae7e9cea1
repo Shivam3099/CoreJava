@@ -1,0 +1,24 @@
+
+public class Calculater {
+public static void main(String[] args) {
+	
+	System.out.println("Enter, a=addition,m=muiltiplication, d=divition, s=substraction ");
+	
+int i=Integer.parseInt(args[0]);
+int j=Integer.parseInt(args[1]);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+}

@@ -1,0 +1,18 @@
+package com.rays.basics;
+
+public class FibonacciSerise {
+public static void main(String[] args) {
+	int a=0;
+    int b=0;
+
+
+
+
+
+
+
+
+
+
+}
+}

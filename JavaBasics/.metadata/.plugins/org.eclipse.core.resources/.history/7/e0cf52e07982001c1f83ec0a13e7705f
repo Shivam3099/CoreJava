@@ -1,0 +1,27 @@
+package String;
+
+public class StringName {
+public static void main(String[] args) {
+	String name="Shivam kumar patel";
+System.out.println("String length-" + name.length()); 
+System.out.println("5th chatat-" + name.charAt(5));
+System.out.println("indexOf kumar-"+name.indexOf("kumar"));
+System.out.println("lastindexOf p-"+name.lastIndexOf("p"));
+System.out.println("k is replaced by r-"+name.replace("k","r"));
+System.out.println("[a-h] is replacedall by #-"+name.replaceAll("[a-h]","#"));
+System.out.println("toLowerCase-"+name.toLowerCase());
+System.out.println("toUpperCase-"+name.toUpperCase());
+System.out.println("name start with patel-"+name.startsWith("patel"));
+System.out.println("name end with-"+name.endsWith("el"));
+System.out.println("substring with-"+name.substring(6));
+
+StringBuffer sb=new StringBuffer("Shivam ");
+sb.append("kumar patel");
+System.out.println(sb.length());
+System.out.println(sb.charAt(7));
+System.out.println(sb.capacity());
+System.out.println(sb.indexOf("patel"));
+System.out.println(sb.replace(7,12,"ram"));
+System.out.println(sb.reverse());
+}
+}
