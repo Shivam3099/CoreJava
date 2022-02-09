@@ -6,10 +6,10 @@ public static void main(String[] args) {
  	
      Person p = new Person();
 
-      p.setName("Shivam patel");
+      p.setName("shriram");
       System.out.println(p.getName());
        
-       p.setDob("30/06/1999");
+       p.setDob("30/06/1970");
        System.out.println(p.getDob());
 
        p.setAddress("Bholaram ustad marg,indore(m.p)452014");

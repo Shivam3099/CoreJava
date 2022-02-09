@@ -8,6 +8,6 @@ public static void main(String[] args) {
    s.setColor("yello");
    System.out.println(s.getBorderwidth());
    System.out.println(s.getColor());
-
+   System.out.println();
 }
 }
