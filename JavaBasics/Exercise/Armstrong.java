@@ -25,7 +25,5 @@ public class Armstrong {
 	}else
 	System.out.println( " not a arm stong no." );
 	
-	}else{
-	system.out.println("om")
 	}
 }
